@@ -1,0 +1,48 @@
+
+
+		HEARTLAND CARS OF AMERICA
+
+	Adam Smith
+
+	Basic Salary 	$4000.00
+	Hours Worked 	80
+	Pay 		$4000.00
+
+
+
+
+
+		HEARTLAND CARS OF AMERICA
+
+	Daisy Duck
+
+	Basic Salary 	$4000.00
+	Hours Worked 	81
+	Pay 		$4075.00
+
+
+
+
+
+		HEARTLAND CARS OF AMERICA
+
+	Mickey Mouse
+
+	Salary/Hour 	$22.00
+	Hours Worked 	20
+	Pay 		$440.00
+
+
+
+
+
+		HEARTLAND CARS OF AMERICA
+
+	Minnie Mouse
+
+	Basic Salary 	$4000.00
+	Sales Volume 	$1000.00
+	Pay 		$4020.00
+
+
+
