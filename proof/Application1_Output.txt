@@ -1,0 +1,18 @@
+Application 1 Test Output
+
+--- Full-Time Employee (80 Hours) ---
+Basic Salary   $4000.00
+Hours Worked   80
+Pay            $4000.00
+--- Full-Time Employee (81 Hours – Overtime) ---
+Basic Salary 	$4000.00
+	Hours Worked 	81
+	Pay 		$4075.00
+--- Part-Time Employee ---
+	Salary/Hour 	$22.00
+	Hours Worked 	20
+	Pay 		$440.00
+	--- Sales Employee ---
+	Basic Salary 	$4000.00
+	Sales Volume 	$1000.00
+	Pay 		$4020.00
